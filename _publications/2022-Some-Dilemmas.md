@@ -1,5 +1,5 @@
 ---
-title: "Some Dilemmas for an Account of Neural Representation: A Reply to Poldrack" />
+title: "Some Dilemmas for an Account of Neural Representation: A Reply to Poldrack"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-Some-Dilemmas
