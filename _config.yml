@@ -24,7 +24,7 @@ repository               : "" # academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Heather Champion, Ph.D. Candidate, M.Sc., M.A."
+  name             : "Heather Champion (Ph.D. Candidate), M.Sc., M.A."
   pronouns         : # example: "she/her"  
   bio              : "Philosopher of Machine Learning in Scientific Practice"
   location         : "Tübingen University, Germany"
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-7304-2592"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # hchampion
+  linkedin         : hchampion
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
