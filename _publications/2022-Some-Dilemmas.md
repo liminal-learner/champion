@@ -7,6 +7,4 @@ excerpt: '“The physics of representation” (Poldrack, 2020) aims to (1) defin
 date: 2022-04-15
 venue: 'Synthese'
 paperurl: https://link.springer.com/article/10.1007/s11229-022-03505-4
-
-
 ---
