@@ -16,9 +16,9 @@ Education
 ======
 Ph.D. Candidate (Philosophy)
 
-Master of Arts (Theological Studies)
-
 Master of Science (Physics & Astronomy)
+
+Master of Arts (Theological Studies)
 
 Further Information
 ======
