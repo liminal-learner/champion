@@ -15,9 +15,11 @@ I am currently a guest researcher in the Ethics & Philosophy Lab, part of the [C
 Education
 ======
 Ph.D. Candidate (Philosophy)
+
 Master of Arts (Theological Studies)
+
 Master of Science (Physics & Astronomy)
 
-Get in Touch
+Further Information
 ======
 My full CV is available upon request. 
