@@ -7,8 +7,5 @@ excerpt: 'A general class of presupposition arguments holds that the background 
 date: 2025-08-15
 venue: 'Synthese, forthcoming'
 paperurl: '' #http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/article/10.1007/s11229-022-03505-4'
-slidesurl: ''
-bibtexurl: ''
-citation: ''
 
 ---
