@@ -11,15 +11,4 @@ My research focuses on philosophical issues regarding the use of machine learnin
 
 I am currently a guest researcher in the Ethics & Philosophy Lab, part of the [Cluster of Excellence: ML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/ethics-philosophy-lab/overview/) (Eberhard Karls Universität Tübingen). My research here is supported by the German Academic Exchange Service (Deutscher Akademischer Austauschdienst). 
 
-
-Education
-======
-Ph.D. Candidate (Philosophy)
-
-Master of Science (Physics & Astronomy)
-
-Master of Arts (Theological Studies)
-
-Further Information
-======
-My full CV is available upon request. 
+I am a PhD candidate in philosophy. I have a mixed disciplinary background including studies in the sciences and the humanities. Please contact me for my full CV. 
