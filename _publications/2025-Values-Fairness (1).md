@@ -1,7 +1,7 @@
 ---
 title: "On Values in Fairness Optimization with Machine Learning"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2025-Values-Fairness
 excerpt: 'Statistical criteria of fairness bring attention to the multiobjective nature of many predictive modelling problems. In this paper, I consider how epistemic and non-epistemic values impact the design of machine learning algorithms that optimize for more than one normative goal. I focus on a major design choice between biased search strategies that directly incorporate priorities for various objectives into an optimization procedure, and unbiased search strategies that do not. I argue that both reliably generate Pareto optimal solutions such that various other values are relevant to making a rational choice between them.'
 date: 2024-11-16
