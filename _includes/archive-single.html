@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-       {% if post.collection == 'publications' %}
+       {% if post.collection == 'publications' or post.collection == 'talks' %}
        <span style="text-decoration: none !important; color: inherit !important; pointer-events: none;">
         {{ title }}
       {% else %}
