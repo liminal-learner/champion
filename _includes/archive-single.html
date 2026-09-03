@@ -27,10 +27,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'publications' or post.collection == 'talks' %}
-        <span style="text-decoration: none !important; color: inherit !important; pointer-events: none;">
-          {{ title }}
-        </span>
+      {% if post.collection == 'talks'}
+        {{ title }}
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
