@@ -24,10 +24,10 @@ repository               : "" # academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Heather Champion (Ph.D. Candidate), M.Sc., M.A."
+  name             : "Heather Champion Ph.D. Candidate, M.Sc., M.A."
   pronouns         : # example: "she/her"  
   bio              : "Philosopher of Machine Learning in Scientific Practice"
-  location         : "Tübingen University, Germany"
+  location         : #"Tübingen University, Germany"
   employer         : "Western University Canada"
   uri              : # URL
   email            : "hchampi2@uwo.ca" 
