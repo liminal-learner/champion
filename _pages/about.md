@@ -18,4 +18,4 @@ From 2025-2026, I was a guest researcher in the Ethics & Philosophy Lab, part of
 
 I developed core competancies in AI Ethics at the AI + Data Ethics (AIDE) Summer Training Program (2023) at Northeastern University (Boston).
 
-I am grateful for supervision and mentorship from Chris Smeenk. I also appreciate mentorship from Thomas Grote and  Kathleen A. Creel. I am indebted to Donal Khosrowi (Leibniz University Hannover) and Tom Sterkenburg (MCMP) for the guidance I received during reseearch visits.
+I am grateful for supervision and mentorship from Chris Smeenk. I also appreciate mentorship from Thomas Grote and  Kathleen A. Creel. I am indebted to Donal Khosrowi (Leibniz University Hannover) and Tom Sterkenburg (MCMP) for the guidance I received during research visits.
