@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "London, Ontario, Canada"
 class_code: "Phil 2037"
 specific_role: "Tutorial leader, marker"
-class_format: "Asynchronous online lectures"
+class_format: "Asynchronous online lectures, synchronous online tutorials"
 ---
 
 Teaching Assistant for Philosophy and AI (Fall 2020)
@@ -21,4 +21,4 @@ Teaching Assistant for Philosophy and AI (Fall 2020)
 
 **Course Code:** Phil 2037: Philosophy and AI
 
-**Format:** Asynchronous online lectures
+**Format:** Asynchronous online lectures, synchronous online tutorials

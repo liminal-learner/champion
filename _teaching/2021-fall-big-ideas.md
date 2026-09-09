@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "London, Ontario, Canada"
 class_code: "Phil 1130F"
 specific_role: "Tutorial leader, marker"
-class_format: "In-person lectures"
+class_format: "In-person lectures, in-person tutorials"
 ---
 
 Teaching Assistant for Big Ideas (Fall 2021)
@@ -21,4 +21,4 @@ Teaching Assistant for Big Ideas (Fall 2021)
 
 **Course Code:** Phil 1130F: Big Ideas
 
-**Format:** In-person lectures
+**Format:** In-person lectures, in-person tutorials

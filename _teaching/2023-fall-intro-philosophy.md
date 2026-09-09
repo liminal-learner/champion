@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "London, Ontario, Canada"
 class_code: "Phil 1020"
 specific_role: "Tutorial leader, marker"
-class_format: "Asynchronous online lectures"
+class_format: "Asynchronous online lectures, in-person tutorials"
 ---
 
 Teaching Assistant for Introduction to Philosophy (Fall 2023)
@@ -21,4 +21,4 @@ Teaching Assistant for Introduction to Philosophy (Fall 2023)
 
 **Course Code:** Phil 1020: Introduction to Philosophy
 
-**Format:** Asynchronous online lectures
+**Format:** Asynchronous online lectures, in-person tutorials
